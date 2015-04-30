@@ -1,3 +1,3 @@
 -module(dummy).
 
-%% Long lineeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Long lineeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee

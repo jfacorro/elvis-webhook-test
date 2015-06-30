@@ -1,10 +1,10 @@
 PROJECT = shotgun
 
 DEPS = gun
-dep_gun = git git://github.com/ninenines/gun.git 427230d
+dep_gun = git https://github.com/ninenines/gun.git 427230d
 
 SHELL_DEPS = sync
-dep_sync = git git://github.com/inaka/sync.git 0.1.3
+dep_sync = git https://github.com/inaka/sync.git 0.1.3
 
 include erlang.mk
 
